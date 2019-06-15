@@ -25,7 +25,7 @@ func run() {
                         print(" -title 'VALUE'")
                         print(" -subtitle 'VALUE'")
                         print(" -appicon URL://VALUE")
-                        print(" Example: maclerter -title 'New Alert!' -subtitle 'You have a new update pending' -appicon 'http://wwwtest.com/test.png'")
+                        print(" Example: maclerter -title 'New Alert!' -subtitle 'You have a new update pending' -appicon 'http://www.test.com/test.png'")
                         return
                     } else {
                         //print("Displayed help files")
