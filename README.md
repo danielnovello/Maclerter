@@ -10,3 +10,7 @@ Usage:<br />
  -subtitle 'VALUE'<br />
  -appicon URL://VALUE<br />
  Example: maclerter -title 'New Alert!' -subtitle 'You have a new update pending' -appicon 'http://www.test.com/test.png'
+
+
+Issues:<br />
+- Many... (Work in progress)
